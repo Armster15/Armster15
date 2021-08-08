@@ -20,6 +20,8 @@
     <img alt="Electron" height="35" src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" />
     <img alt="Webpack" height="35" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" />
     <img alt="Gulp" height="35" src="https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge" />
+    <img alt="Vite" height="35" src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge" />
+    <img alt="Tailwind" height="35" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=Tailwind%20CSS&logoColor=white&style=for-the-badge" />
 </p>
 
 ## Github Statistics
