@@ -11,6 +11,7 @@
     <img alt="JavaScript" height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
     <img alt="TypeScript" height="35" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
     <img alt="Flask" height="35" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+    <img alt="FastAPI" height="35" src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge" />
     <img alt="MongoDB" height="35" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
     <img alt="Bulma" height="35" src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white&style=for-the-badge" />
     <img alt="Tailwind" height="35" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=Tailwind%20CSS&logoColor=white&style=for-the-badge" />
