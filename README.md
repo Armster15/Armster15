@@ -1,6 +1,10 @@
 # Hi there 👋
+<p>I am a student that mostly focus on web development using Python and TypeScript. Feel free to check out my GitHub profile!</p>
 
-<p>I code mainly in Python and am currently playing around with HTML/CSS/JavaScript</p>
+## Achievements
+- **Doblar:** A fully open source and local image converter that runs in your browser. 
+- **VoiceMask:** Discord bot that allows people to speak in a voice channel without using your real voice.
+- **StackOverflow Reach:** [According to Stack Overflow](https://stackoverflow.com/users/5721784/armster), my questions and answers have impacted more than 67k+ people.
 
 ## Skills
 
@@ -26,7 +30,7 @@
     <img alt="Discord API" height="35" src="https://img.shields.io/badge/Discord%20API-5865F2?logo=Discord&logoColor=white&style=for-the-badge" />
 </p>
 
-## Github Statistics
+## GitHub Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armster15" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Armster15&show_icons=true&hide_title=true" />
 
