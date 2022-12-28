@@ -1,5 +1,5 @@
 # Hi there 👋
-<p>I am a student that mostly focus on web development using Python and TypeScript. Feel free to check out my GitHub profile!</p>
+<p>I am a student that mostly focuses on web development using Python and TypeScript. Feel free to check out my GitHub profile!</p>
 
 ## Achievements
 - **Doblar:** A fully open source and local image converter that runs in your browser. 
