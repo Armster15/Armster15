@@ -1,11 +1,6 @@
 # Hi there 👋
 <p>I am a student that mostly focuses on web development using Python and TypeScript. Feel free to check out my GitHub profile!</p>
 
-## Achievements
-- **Doblar:** A fully open source and local image converter that runs in your browser. 
-- **VoiceMask:** Discord bot that allows people to speak in a voice channel without using your real voice.
-- **StackOverflow Reach:** [According to Stack Overflow](https://stackoverflow.com/users/5721784/armster), my questions and answers have impacted more than 67k+ people.
-
 ## Skills
 
 <p>
