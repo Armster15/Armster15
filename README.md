@@ -25,10 +25,6 @@
     <img alt="Discord API" height="35" src="https://img.shields.io/badge/Discord%20API-5865F2?logo=Discord&logoColor=white&style=for-the-badge" />
 </p>
 
-## GitHub Statistics
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armster15" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Armster15&show_icons=true&hide_title=true&rank_icon=github" />
-
 <!-- How to generate Badges
 Use this Python function:
 ```py
