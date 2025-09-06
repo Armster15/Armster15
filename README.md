@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a student that loves building consumer-facing products and contributing to open source.
+I'm a student that loves building consumer-facing products and contributing to open source. I currently work as a software engineer at Replit.
 
 Learn more about me on [my website](https://armaan.cc), or check out what I’ve been building on this GitHub.
 
@@ -12,3 +12,4 @@ def create_badge(text, color, logo, logo_color="white"):
 ```
 Get icons from https://simpleicons.org/
 -->
+
